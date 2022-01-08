@@ -808,7 +808,7 @@ body {
 }
 
 .div-block-5.for-mobile {
-  width: 320px;
+  max-width: 320px;
   max-height: 90px; 
 }
 
