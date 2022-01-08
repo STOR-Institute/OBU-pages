@@ -809,6 +809,7 @@ body {
 
 .div-block-5.for-mobile {
   width: Auto;
+  max-height: 90px; 
 }
 
 .horizontal-divider {
