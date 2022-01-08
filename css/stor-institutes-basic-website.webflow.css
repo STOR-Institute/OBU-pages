@@ -214,8 +214,6 @@ body {
 
 .main-footer.for-mobile {
   display: block;
-  max-height: 200px;
-  max-width: Auto;
   grid-auto-columns: 1fr;
   -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
