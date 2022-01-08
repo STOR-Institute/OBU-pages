@@ -183,7 +183,7 @@ body {
 .main-footer {
   display: block;
   overflow: visible;
-  max-height: 300px;
+  max-height: 200px;
   max-width: 600px;
   padding-right: 91px;
   padding-left: 91px;
@@ -214,6 +214,8 @@ body {
 
 .main-footer.for-mobile {
   display: block;
+  max-height: 200px;
+  max-width: 320px;
   grid-auto-columns: 1fr;
   -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
