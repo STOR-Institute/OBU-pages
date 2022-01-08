@@ -182,7 +182,7 @@ body {
 
 .main-footer {
   display: block;
-  overflow: hidden;
+  overflow: visible;
   max-height: 200px;
   max-width: 600px;
   padding-right: 91px;
@@ -804,7 +804,7 @@ body {
 
 .div-block-5 {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
 }
 
 .div-block-5.for-mobile {
