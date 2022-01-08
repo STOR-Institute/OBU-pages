@@ -183,7 +183,7 @@ body {
 .main-footer {
   display: block;
   overflow: visible;
-  max-height: Auto;
+  max-height: 200px;
   max-width: 600px;
   padding-right: 91px;
   padding-left: 91px;
